@@ -22,7 +22,7 @@ View all the rising startups in one place
 
 ## Note
 * This project contains some info (.env file) that has been hidden for security purposes so please enter your credentials on cloning the repo
-* This project is complete - [Click Here]()
+* This project is complete - [Click Here](https://657ea0701ade913b6e46e6b6--bespoke-faloodeh-429a22.netlify.app/)
 
 ## Build using
 ### Front-end
